@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Zhang"
+title                    : "Ben Chang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -66,7 +66,7 @@ yandex_site_verification :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : University of Queensland
+  type                   
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
